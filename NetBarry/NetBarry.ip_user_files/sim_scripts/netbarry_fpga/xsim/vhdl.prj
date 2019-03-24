@@ -1,0 +1,12 @@
+vhdl xil_defaultlib  \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_0/sim/netbarry_fpga_axi_gpio_0_0.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_1/sim/netbarry_fpga_axi_gpio_0_1.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_2/sim/netbarry_fpga_axi_gpio_0_2.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_3/sim/netbarry_fpga_axi_gpio_0_3.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_4/sim/netbarry_fpga_axi_gpio_0_4.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_5/sim/netbarry_fpga_axi_gpio_0_5.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_gpio_0_6/sim/netbarry_fpga_axi_gpio_0_6.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_rst_ps7_0_100M_0/sim/netbarry_fpga_rst_ps7_0_100M_0.vhd" \
+"../../../bd/netbarry_fpga/ip/netbarry_fpga_axi_bram_ctrl_0_0/sim/netbarry_fpga_axi_bram_ctrl_0_0.vhd" \
+
+nosort
